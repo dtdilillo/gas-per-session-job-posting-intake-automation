@@ -1,4 +1,4 @@
-# NYC DOE Per Session Automation
+# NYCDOE Per Session Automation
 *AI-assisted Google Apps Scripts for uniform job posting*
 
 | Script | Purpose | Impact |
